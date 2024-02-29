@@ -1,4 +1,5 @@
-https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
+-https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF
+-https://img.shields.io/badge/any_text-you_like-blue
 
 <!--
 **ATrnd/ATrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
