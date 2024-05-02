@@ -2,9 +2,9 @@
 
 ```javascript
 let atrnd = {
-    about: 'I merge generative AI and web2/3 tech to blueprint MMO-inspired decentralized micro-games for Ethereum L2.',
-    tech: [Javascript, Solidity, HTML, CSS],
-    tools: [Hardhat, Node],
-    architecture: ["Decentralized Applications"]
+    about: ['generative AI', 'web2', 'web3', 'open-source', 'micro-games', 'Ethereum'],
+    tech: ['Javascript', 'Solidity', 'HTML', 'CSS'],
+    tools: ['Hardhat', 'Node'],
+    architecture: ['Decentralized Applications']
 }
 ```
