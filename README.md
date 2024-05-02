@@ -1,2 +1,3 @@
-![atrnd](https://github.com/ATrnd/ATrnd/blob/master/_img/atrnd_hero.jpg?raw=true)
+![atrnd](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_hero.jpg?raw=true)
+
 
