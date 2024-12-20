@@ -7,7 +7,7 @@ I build stuff on shape.network
 Focused on Web3 game utilities, game design & gamification.
 Currently working on ShapeXp, a Cross-World NFT Experience System for ShapeCraft.
 
-## 🎮 Primary technology stack
+## 🎮 Primary tech stack
 
 ![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/foundry-282828?style=for-the-badge&logo=foundry&logoColor=white)
