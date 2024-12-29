@@ -7,7 +7,7 @@ I build stuff on shape.network
 Focused on Web3 game utilities, game design & gamification.
 Currently working on ShapeXp, a cross-world NFT experience system for ShapeCraft.
 
-![ATrnd | shape:perfection](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_x.png)
+![ATrnd | shape:perfection](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_x-0.2.png)
 
 ## 🎮 Primary tech stack
 
