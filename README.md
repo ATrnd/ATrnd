@@ -1,10 +1,4 @@
-✌🏻 Hello, my name is Attila.
-=============================
-
-I build stuff on shape.network
-------------------------------
-
-Focused on Web3 game utilities, game design, and gamification. Currently building ShapeGrinders, a gamified NFT engine for **[Shape_L2](https://shape.network/)**.
+Building rad utilities & gamified dApps for NFT-driven economies at **[Shape_L2](https://shape.network/)**.
 
 ![ATrnd](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_x-0.3.png)
 
