@@ -6,5 +6,4 @@ Building rad utilities & gamified dApps for NFT-driven economies at **[Shape_L2]
 
 ![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Foundry](https://img.shields.io/badge/foundry-282828?style=for-the-badge&logo=foundry&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/ethers.js-3C3C3C?style=for-the-badge&logo=ethers&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
