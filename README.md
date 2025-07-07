@@ -1,6 +1,6 @@
-Building rad utilities & gamified dApps for NFT-driven economies at **[Shape_L2](https://shape.network/)**.
+Web3 builder developing novel NFT ownership primitives with Solidity & Foundry.
 
-![ATrnd](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_github_0.3.jpg)
+![ATrnd](https://github.com/ATrnd/ATrnd/blob/main/_img/atrnd_github.jpg)
 
 ## 🎮 Primary tech stack
 
